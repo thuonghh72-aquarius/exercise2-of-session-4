@@ -1,0 +1,29 @@
+/* Reset mặc định */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Phần tiêu đề */
+h1 {
+  background-color: #333333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Thanh điều hướng */
+nav {
+  background-color: #e0e0e0;
+  text-align: center;
+  padding: 12px;
+}
+
+/* Các mục điều hướng */
+nav a {
+  color: #333333;
+  text-decoration: none;
+  margin: 0 12px;
+  font-size: 15px;
+}
